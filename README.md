@@ -15,5 +15,5 @@ The main objective of this project is to achieve minimum sparsity and optimal ne
  <img src="images/BDAResult.png" width ="800" height ="500">
  <img src="images/BDA.png" width ="800" height ="500">
 
-<img src="images/Precision.png" width ="250" height ="200"><img src="images/RMSE.png" width ="250" height ="200">
+<img src="images/Precision.png" width ="400" height ="300"><img src="images/RMSE.png" width ="400" height ="300">
 <img src="images/Coverage.png" width ="400" height ="300"><img src="images/F-Measure.png" width ="400" height ="300">
